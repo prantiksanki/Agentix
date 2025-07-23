@@ -1,11 +1,12 @@
 {
-  "type" : "module",
+  "type": "module",
   "name": "agentic AI",
   "version": "1.0.0",
   "description": "A project using Google GenAI for agentic AI functionalities",
   "main": "index.js",
   "dependencies": {
     "@google/genai": "^1.10.0",
+    "dotenv": "^17.2.0",
     "readline-sync": "^1.4.10"
   }
 }
